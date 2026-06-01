@@ -1,0 +1,20 @@
+{
+  "name": "ex-p5-digital-academy-javascript-micro-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/NereaSola/ex-p5-digital-academy-javascript-micro-exercises#readme",
+  "bugs": {
+    "url": "https://github.com/NereaSola/ex-p5-digital-academy-javascript-micro-exercises/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NereaSola/ex-p5-digital-academy-javascript-micro-exercises.git"
+  },
+  "license": "ISC",
+  "author": "NereaSola",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
